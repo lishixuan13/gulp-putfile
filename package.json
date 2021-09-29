@@ -1,14 +1,15 @@
 {
   "name": "gulp-putfile",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "gulp plugin upload file",
   "keywords": [
-    "upload",
+    "gulp",
     "file",
-    "ssh"
+    "ssh",
+    "sftp"
   ],
   "author": "十三 <lishixuan@qtshe.com>",
-  "homepage": "",
+  "homepage": "https://github.com/lishixuan13/gulp-putfile",
   "license": "MIT",
   "main": "index.js",
   "directories": {
@@ -20,7 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@gitee.com:f2e-tech/tools.git"
+    "url": "https://github.com/lishixuan13/gulp-putfile"
+  },
+  "bugs": {
+    "url": "https://github.com/lishixuan13/gulp-putfile/issues"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
